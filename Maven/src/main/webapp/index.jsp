@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome Sandeep
+welcome 
 </form>
 </body>
 </html>
